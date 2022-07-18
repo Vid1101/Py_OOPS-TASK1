@@ -1,0 +1,40 @@
+INFO : root : 2022-07-14 13:35:52,218 : String initialized from constructor
+INFO : root : 2022-07-14 13:35:52,218 : Extracting string from index 0 to 300
+INFO : root : 2022-07-14 13:35:52,218 : extracted string : tssyityopgmncsa alrNph rgni ni
+INFO : root : 2022-07-14 13:35:52,218 : String reverse without reverse function
+INFO : root : 2022-07-14 13:35:52,218 : Reversed value :noitcnuf sti dna gnirts nohtyp GNINrael ma i dna ssalc gnimmargorp nohtyP tsriF yM si siht
+INFO : root : 2022-07-14 13:48:25,190 : String initialized from constructor
+INFO : root : 2022-07-14 13:48:25,190 : Splitting string after converting to upper case
+INFO : root : 2022-07-14 13:48:25,190 : List of string values post split ['THIS', 'IS', 'MY', 'FIRST', 'PYTHON', 'PROGRAMMING', 'CLASS', 'AND', 'I', 'AM', 'LEARNING', 'PYTHON', 'STRING', 'AND', 'ITS', 'FUNCTION']
+INFO : root : 2022-07-14 13:51:36,191 : String initialized from constructor
+INFO : root : 2022-07-14 13:51:36,191 : Converting the string to lower case
+INFO : root : 2022-07-14 13:51:36,191 : Lower case string this is my first python programming class and i am learning python string and its function
+INFO : root : 2022-07-14 13:54:15,648 : String initialized from constructor
+INFO : root : 2022-07-14 13:54:15,648 : Capitalized string :THIS IS MY FIRST PYTHON PROGRAMMING CLASS AND I AM LEARNING PYTHON STRING AND ITS FUNCTION
+INFO : root : 2022-07-14 17:02:24,561 : String initialized from constructor
+INFO : root : 2022-07-14 17:02:24,561 : Show difference between isalpha and isalnum
+INFO : root : 2022-07-14 17:02:24,561 : The string is heterogeneous
+INFO : root : 2022-07-14 17:09:12,747 : String initialized from constructor
+INFO : root : 2022-07-14 17:09:12,747 : Demo example of expand tab
+INFO : root : 2022-07-14 17:09:12,747 : The actual string without tab expands :this is My First Python programming class and i am learNING python string and its function
+INFO : root : 2022-07-14 17:09:12,747 : Added 5 spaces in the string spaces using expandtabs() function :this is My First Python programming class and i am learNING python string and its function
+INFO : root : 2022-07-14 17:12:51,726 : String initialized from constructor
+INFO : root : 2022-07-14 17:12:51,726 : Demo example of expand tab
+INFO : root : 2022-07-14 17:12:51,726 : 'string_questions' object has no attribute 'test_string'
+INFO : root : 2022-07-14 17:13:42,849 : String initialized from constructor
+INFO : root : 2022-07-14 17:13:42,849 : Demo example of expand tab
+INFO : root : 2022-07-14 17:13:42,849 : The actual string without tab expands :Test	expand	tabs
+INFO : root : 2022-07-14 17:13:42,849 : Added 5 spaces in the string spaces using expandtabs() function :Test expand    tabs
+INFO : root : 2022-07-14 17:28:52,292 : String initialized from constructor
+INFO : root : 2022-07-14 17:28:52,292 : Example of strip, lstrip & rstrip
+INFO : root : 2022-07-14 17:28:52,292 : The actual string :  testing strip function  
+INFO : root : 2022-07-14 17:28:52,292 : The string after strip function :testing strip function
+INFO : root : 2022-07-14 17:28:52,293 : The string after lstrip function :testing strip function  
+INFO : root : 2022-07-14 17:28:52,294 : The string after rstrip function :  testing strip function
+INFO : root : 2022-07-14 17:35:51,632 : String initialized from constructor
+INFO : root : 2022-07-14 17:35:51,633 : demo replace in string functions
+INFO : root : 2022-07-14 17:35:51,633 : Replacing python with data science in original string
+INFO : root : 2022-07-14 17:35:51,633 : this is My First Data science programming class and i am learNING python string and its function
+INFO : root : 2022-07-14 17:41:16,678 : String initialized from constructor
+INFO : root : 2022-07-14 17:41:16,678 : Center method with fillchar character as *
+INFO : root : 2022-07-14 17:41:16,678 : The new string :**********centralize**********

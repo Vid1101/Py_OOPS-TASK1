@@ -1,0 +1,65 @@
+INFO : root : 2022-07-14 18:04:24,943 : extracting all the list entities
+INFO : root : 2022-07-14 18:04:24,943 : List extracted [1, 2, 3, 4]
+INFO : root : 2022-07-14 18:04:24,943 : List extracted ['ineuron', 'data science']
+INFO : root : 2022-07-14 18:09:12,569 : Extracting all the dictionary entities
+INFO : root : 2022-07-14 18:09:12,569 : Dictionary entity extracted {'k1': 'sudh', 'k2': 'ineuron', 'k3': 'kumar', 3: 6, 7: 8}
+INFO : root : 2022-07-14 19:17:28,492 : Extracting all the tuple entities
+INFO : root : 2022-07-14 19:17:28,492 : Tuple entity extracted (2, 3, 4, 5, 6)
+INFO : root : 2022-07-14 19:17:28,492 : Tuple entity extracted (3, 4, 5, 6, 7)
+INFO : root : 2022-07-14 19:26:42,100 : Extracting all the numerical data from list
+INFO : root : 2022-07-14 19:26:42,101 : 1
+INFO : root : 2022-07-14 19:26:42,101 : 2
+INFO : root : 2022-07-14 19:26:42,101 : 3
+INFO : root : 2022-07-14 19:26:42,101 : 4
+INFO : root : 2022-07-14 19:26:42,102 : 2
+INFO : root : 2022-07-14 19:26:42,102 : 3
+INFO : root : 2022-07-14 19:26:42,102 : 4
+INFO : root : 2022-07-14 19:26:42,102 : 5
+INFO : root : 2022-07-14 19:26:42,102 : 6
+INFO : root : 2022-07-14 19:26:42,102 : 3
+INFO : root : 2022-07-14 19:26:42,103 : 4
+INFO : root : 2022-07-14 19:26:42,103 : 5
+INFO : root : 2022-07-14 19:26:42,103 : 6
+INFO : root : 2022-07-14 19:26:42,103 : 7
+INFO : root : 2022-07-14 19:26:42,103 : 45
+INFO : root : 2022-07-14 19:26:42,103 : 4
+INFO : root : 2022-07-14 19:26:42,103 : 5
+INFO : root : 2022-07-14 19:26:42,103 : 23
+INFO : root : 2022-07-14 19:26:42,103 : 3:6
+INFO : root : 2022-07-14 19:26:42,103 : 7:8
+INFO : root : 2022-07-14 19:35:19,960 : Summation of all numbers in data
+INFO : root : 2022-07-14 19:35:19,961 : Sum of all numbers in list is :142
+INFO : root : 2022-07-14 19:46:57,498 : Extracting odd values from list
+INFO : root : 2022-07-14 19:46:57,498 : Odd data list :[1, 3, 3, 5, 3, 5, 7, 45, 5, 23]
+INFO : root : 2022-07-15 09:01:49,068 : Extract ineuron from the data set
+INFO : root : 2022-07-15 09:01:49,079 : Found it in dictionary :k2:ineuron
+INFO : root : 2022-07-15 09:01:49,079 : Found it in list/set/tuple :ineuron
+
+INFO : root : 2022-07-15 09:24:08,113 : Logging the frequency of data
+INFO : root : 2022-07-15 09:24:08,113 : Frequency of 1:1 
+INFO : root : 2022-07-15 09:24:08,113 : Frequency of 2:2 
+INFO : root : 2022-07-15 09:24:08,113 : Frequency of 3:4 
+INFO : root : 2022-07-15 09:24:08,113 : Frequency of 4:4 
+INFO : root : 2022-07-15 09:24:08,113 : Frequency of 5:3 
+INFO : root : 2022-07-15 09:24:08,113 : Frequency of 6:3 
+INFO : root : 2022-07-15 09:24:08,118 : Frequency of 7:2 
+INFO : root : 2022-07-15 09:24:08,118 : Frequency of 8:1 
+INFO : root : 2022-07-15 09:24:08,118 : Frequency of 45:1 
+INFO : root : 2022-07-15 09:24:08,118 : Frequency of k1:1 
+INFO : root : 2022-07-15 09:24:08,118 : Frequency of data science:1 
+INFO : root : 2022-07-15 09:24:08,118 : Frequency of sudh:1 
+INFO : root : 2022-07-15 09:24:08,118 : Frequency of kumar:1 
+INFO : root : 2022-07-15 09:24:08,119 : Frequency of 23:1 
+INFO : root : 2022-07-15 09:24:08,119 : Frequency of k3:1 
+INFO : root : 2022-07-15 09:24:08,119 : Frequency of k2:1 
+INFO : root : 2022-07-15 09:24:08,119 : Frequency of ineuron:2 
+INFO : root : 2022-07-15 09:29:55,176 : Logging number of keys in dict element
+INFO : root : 2022-07-15 09:29:55,176 : Number of keys found 5
+INFO : root : 2022-07-15 16:02:54,368 : Filter the string data from list
+INFO : root : 2022-07-15 16:02:54,368 : The string data extracted from list are ['k1', 'k2', 'k3', 'ineuron', 'data science']
+INFO : root : 2022-07-15 16:08:20,299 : Filter the alphanumeric data from list
+INFO : root : 2022-07-15 16:08:20,299 : The alphanumeric data extracted from list are ['k1', 'k2', 'k3', 'ineuron']
+INFO : root : 2022-07-15 16:19:59,718 : Filter the alphanumeric data from list
+INFO : root : 2022-07-15 16:19:59,718 : The alphanumeric data extracted from list are ['k1', 'sudh', 'k2', 'ineuron', 'k3', 'kumar', 'ineuron']
+INFO : root : 2022-07-15 16:20:31,252 : Filter the string data from list
+INFO : root : 2022-07-15 16:20:31,252 : The string data extracted from list are ['k1', 'sudh', 'k2', 'ineuron', 'k3', 'kumar', 'ineuron', 'data science']
